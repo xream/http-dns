@@ -1,0 +1,20 @@
+{
+	"dependencies": {
+		"dohjs": "^0.3.3",
+		"koa": "^2.14.2",
+		"lodash": "^4.17.21"
+	},
+	"devDependencies": {
+		"nodemon": "^3.0.1"
+	},
+	"name": "http-dns",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "nodemon index.js -e js"
+	},
+	"author": "xream",
+	"license": "GPL-3.0",
+	"description": ""
+}
